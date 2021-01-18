@@ -12,6 +12,7 @@ yarn-error.log*
 # dotenv environment variable files
 .env*
 !.env.development.example
+!.env.production
 
 # Runtime data
 pids
